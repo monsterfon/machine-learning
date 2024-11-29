@@ -1,0 +1,6 @@
+tree works badly on linear data.
+
+to figure out mae we can figure out 
+
+A regression tree is a type of decision tree used for predicting a continuous numeric value (as opposed to classification trees, which predict a discrete class label). Regression trees partition data into segments based on feature values, aiming to minimize error within each segment. We always split between the first and second, second and third, and so on.  To naredimo a vse spremenljivke in  vse stolpce. Then we chose the most optimal split (SE is least). 
+

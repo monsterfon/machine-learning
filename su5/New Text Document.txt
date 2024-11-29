@@ -1,0 +1,10 @@
+We are building a regression tree
+
+boosting is like playing golf. First you hit quite hard. Then you try multiple times to come as near to the hole as possible. 
+
+log odds = number of positives / number of negatives
+
+don't make it that deep to avoid overfitting
+
+cheack that the code is for  regressionj nd not clasification.  75% of students made this mistake. xg boost i think. 
+
